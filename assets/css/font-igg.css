@@ -81,9 +81,9 @@
 
 @font-face {
 	font-family: "LL Gravur Cond Regular Web";
-	src: url("fonts/GravurLLWeb-CondRegular.eot");
-	src: url("fonts/GravurLLWeb-CondRegular.woff2") format("woff2"),
-		 url("fonts/GravurLLWeb-CondRegular.woff") format("woff");
+	src: url("../fonts/GravurLLWeb-CondRegular.eot");
+	src: url("../fonts/GravurLLWeb-CondRegular.woff2") format("woff2"),
+		 url("../fonts/GravurLLWeb-CondRegular.woff") format("woff");
 }
 
 @font-face {
